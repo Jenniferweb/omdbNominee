@@ -1,6 +1,6 @@
 # The Shoppies: Movie awards for entrepreneurs
 
-An application that allows the user to search and add up to 5 nominees to their desired nominated movies.
+An application that allows the user to search and add up to 5 nominees to their desired nominated movies. Coded using React JS
 
 ## Technical Requirements:
 1. Search results should come from OMDB's API (free API key: http://www.omdbapi.com/apikey.aspx).
